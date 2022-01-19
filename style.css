@@ -80,27 +80,27 @@ body {
   font-size: 20px;
 }
 .container .slider .slide.slide1 {
-  background: url(images/sea.jpg);
+  background: url(1.jpg);
   background-size: cover;
   background-position: center;
 }
 .container .slider .slide.slide2 {
-  background: url(images/mountain.jpg);
+  background: url(2.jpg);
   background-size: cover;
   background-position: center;
 }
 .container .slider .slide.slide3 {
-  background: url(images/image2.jpg);
+  background: url(3.jfif);
   background-size: cover;
   background-position: center;
 }
 .container .slider .slide.slide4 {
-  background: url(images/image1.jfif);
+  background: url(4.jpg);
   background-size: cover;
   background-position: center;
 }
 .container .slider .slide.slide5 {
-  background: url(images/background.jpg);
+  background: url(5.jpg);
   background-size: cover;
   background-position: center;
 }
